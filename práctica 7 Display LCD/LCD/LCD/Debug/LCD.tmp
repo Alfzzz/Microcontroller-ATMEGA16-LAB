@@ -1,0 +1,45 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>D:\tec\ITSE\5to semestre\lab de micros\práctica 7 Display LCD\LCD\LCD\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/atmel7\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>D:\atmel7\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 7 Display LCD\LCD\LCD\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/atmel7\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 7 Display LCD\LCD\LCD\Debug\LCD.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>LCD.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>LCD.map</FILE>
+  <FILE>LCD.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <initLCD_4bits><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 7 Display LCD\LCD\LCD\main.asm</FILE><LINE>117</LINE></initLCD_4bits>
+  <sendLCD_4bits><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 7 Display LCD\LCD\LCD\main.asm</FILE><LINE>95</LINE></sendLCD_4bits>
+  <Ciclo5Espacios><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 7 Display LCD\LCD\LCD\main.asm</FILE><LINE>85</LINE></Ciclo5Espacios>
+  <Ciclo4Espacios><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 7 Display LCD\LCD\LCD\main.asm</FILE><LINE>74</LINE></Ciclo4Espacios>
+  <Fin><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 7 Display LCD\LCD\LCD\main.asm</FILE><LINE>71</LINE></Fin>
+  <Espacios4><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 7 Display LCD\LCD\LCD\main.asm</FILE><LINE>76</LINE></Espacios4>
+  <Espacios5><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 7 Display LCD\LCD\LCD\main.asm</FILE><LINE>87</LINE></Espacios5>
+  <retardo40us><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 7 Display LCD\LCD\LCD\main.asm</FILE><LINE>163</LINE></retardo40us>
+  <retardo500us><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 7 Display LCD\LCD\LCD\main.asm</FILE><LINE>149</LINE></retardo500us>
+  <retardo10ms><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 7 Display LCD\LCD\LCD\main.asm</FILE><LINE>135</LINE></retardo10ms>
+  <ciclo2><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 7 Display LCD\LCD\LCD\main.asm</FILE><LINE>139</LINE></ciclo2>
+  <ciclo1><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 7 Display LCD\LCD\LCD\main.asm</FILE><LINE>141</LINE></ciclo1>
+  <ciclo3><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 7 Display LCD\LCD\LCD\main.asm</FILE><LINE>153</LINE></ciclo3>
+  <ciclo4><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 7 Display LCD\LCD\LCD\main.asm</FILE><LINE>155</LINE></ciclo4>
+  <ciclo5><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 7 Display LCD\LCD\LCD\main.asm</FILE><LINE>167</LINE></ciclo5>
+  <ciclo6><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 7 Display LCD\LCD\LCD\main.asm</FILE><LINE>169</LINE></ciclo6>
+  <retardo1ms><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 7 Display LCD\LCD\LCD\main.asm</FILE><LINE>178</LINE></retardo1ms>
+  <ciclo8><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 7 Display LCD\LCD\LCD\main.asm</FILE><LINE>182</LINE></ciclo8>
+  <ciclo7><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 7 Display LCD\LCD\LCD\main.asm</FILE><LINE>184</LINE></ciclo7>
+ </LABELS>
+</ASSEMBLER_INFO>
