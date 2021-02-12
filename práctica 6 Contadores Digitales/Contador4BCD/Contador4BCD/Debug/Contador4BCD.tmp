@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>D:\tec\ITSE\5to semestre\lab de micros\práctica 6\Contador4BCD\Contador4BCD\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/atmel7\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>D:\atmel7\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 6\Contador4BCD\Contador4BCD\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/atmel7\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 6\Contador4BCD\Contador4BCD\Debug\Contador4BCD.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Contador4BCD.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Contador4BCD.map</FILE>
+  <FILE>Contador4BCD.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <PollingPrimerSwitch><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 6\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>20</LINE></PollingPrimerSwitch>
+  <PollingSegundoSwitch><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 6\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>25</LINE></PollingSegundoSwitch>
+  <Incremento><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 6\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>46</LINE></Incremento>
+  <retardo10ms><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 6\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>91</LINE></retardo10ms>
+  <Wait><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 6\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>35</LINE></Wait>
+  <Unidades><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 6\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>47</LINE></Unidades>
+  <Decenas><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 6\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>57</LINE></Decenas>
+  <Centenas><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 6\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>65</LINE></Centenas>
+  <Millares><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 6\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>76</LINE></Millares>
+  <ResetearTodo><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 6\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>85</LINE></ResetearTodo>
+  <ciclo2><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 6\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>93</LINE></ciclo2>
+  <ciclo1><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 6\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>95</LINE></ciclo1>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,42 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>D:\tec\ITSE\5to semestre\lab de micros\práctica5\SecuenciaLEDScon3Swtiches\SecuenciaLEDScon3Swtiches\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/atmel7\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>D:\atmel7\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica5\SecuenciaLEDScon3Swtiches\SecuenciaLEDScon3Swtiches\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/atmel7\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica5\SecuenciaLEDScon3Swtiches\SecuenciaLEDScon3Swtiches\Debug\SecuenciaLEDScon3Swtiches.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>SecuenciaLEDScon3Swtiches.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>SecuenciaLEDScon3Swtiches.map</FILE>
+  <FILE>SecuenciaLEDScon3Swtiches.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Inicio><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica5\SecuenciaLEDScon3Swtiches\SecuenciaLEDScon3Swtiches\main.asm</FILE><LINE>16</LINE></Inicio>
+  <SetearOResetearR16><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica5\SecuenciaLEDScon3Swtiches\SecuenciaLEDScon3Swtiches\main.asm</FILE><LINE>28</LINE></SetearOResetearR16>
+  <PrimerSwitchON><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica5\SecuenciaLEDScon3Swtiches\SecuenciaLEDScon3Swtiches\main.asm</FILE><LINE>36</LINE></PrimerSwitchON>
+  <SegundoSwitchON><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica5\SecuenciaLEDScon3Swtiches\SecuenciaLEDScon3Swtiches\main.asm</FILE><LINE>47</LINE></SegundoSwitchON>
+  <TercerSwitchON><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica5\SecuenciaLEDScon3Swtiches\SecuenciaLEDScon3Swtiches\main.asm</FILE><LINE>66</LINE></TercerSwitchON>
+  <ciclo10><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica5\SecuenciaLEDScon3Swtiches\SecuenciaLEDScon3Swtiches\main.asm</FILE><LINE>41</LINE></ciclo10>
+  <retardo10ms><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica5\SecuenciaLEDScon3Swtiches\SecuenciaLEDScon3Swtiches\main.asm</FILE><LINE>81</LINE></retardo10ms>
+  <izquierdaAderecha><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica5\SecuenciaLEDScon3Swtiches\SecuenciaLEDScon3Swtiches\main.asm</FILE><LINE>57</LINE></izquierdaAderecha>
+  <derechaAIzquierda><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica5\SecuenciaLEDScon3Swtiches\SecuenciaLEDScon3Swtiches\main.asm</FILE><LINE>50</LINE></derechaAIzquierda>
+  <retardo200ms><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica5\SecuenciaLEDScon3Swtiches\SecuenciaLEDScon3Swtiches\main.asm</FILE><LINE>92</LINE></retardo200ms>
+  <ResetearR17><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica5\SecuenciaLEDScon3Swtiches\SecuenciaLEDScon3Swtiches\main.asm</FILE><LINE>74</LINE></ResetearR17>
+  <retardo500ms><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica5\SecuenciaLEDScon3Swtiches\SecuenciaLEDScon3Swtiches\main.asm</FILE><LINE>100</LINE></retardo500ms>
+  <ciclo104><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica5\SecuenciaLEDScon3Swtiches\SecuenciaLEDScon3Swtiches\main.asm</FILE><LINE>83</LINE></ciclo104>
+  <ciclo255><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica5\SecuenciaLEDScon3Swtiches\SecuenciaLEDScon3Swtiches\main.asm</FILE><LINE>85</LINE></ciclo255>
+  <ciclo20_1><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica5\SecuenciaLEDScon3Swtiches\SecuenciaLEDScon3Swtiches\main.asm</FILE><LINE>94</LINE></ciclo20_1>
+  <ciclo50_1><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica5\SecuenciaLEDScon3Swtiches\SecuenciaLEDScon3Swtiches\main.asm</FILE><LINE>102</LINE></ciclo50_1>
+ </LABELS>
+</ASSEMBLER_INFO>
