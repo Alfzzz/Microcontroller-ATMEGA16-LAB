@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>D:\tec\ITSE\5to semestre\lab de micros\TWI masterT-slaveR\master\master\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/atmel7\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>D:\atmel7\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\tec\ITSE\5to semestre\lab de micros\TWI masterT-slaveR\master\master\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/atmel7\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\tec\ITSE\5to semestre\lab de micros\TWI masterT-slaveR\master\master\Debug\master.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>master.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>master.map</FILE>
+  <FILE>master.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>D:\tec\ITSE\5to semestre\lab de micros\TWI masterT-slaveR\master\master\main.asm</FILE><LINE>6</LINE></main>
+  <twi><FILE>D:\tec\ITSE\5to semestre\lab de micros\TWI masterT-slaveR\master\master\main.asm</FILE><LINE>33</LINE></twi>
+  <fin><FILE>D:\tec\ITSE\5to semestre\lab de micros\TWI masterT-slaveR\master\master\main.asm</FILE><LINE>21</LINE></fin>
+  <activarTWI><FILE>D:\tec\ITSE\5to semestre\lab de micros\TWI masterT-slaveR\master\master\main.asm</FILE><LINE>25</LINE></activarTWI>
+  <wait1><FILE>D:\tec\ITSE\5to semestre\lab de micros\TWI masterT-slaveR\master\master\main.asm</FILE><LINE>40</LINE></wait1>
+  <error><FILE>D:\tec\ITSE\5to semestre\lab de micros\TWI masterT-slaveR\master\master\main.asm</FILE><LINE>94</LINE></error>
+  <wait2><FILE>D:\tec\ITSE\5to semestre\lab de micros\TWI masterT-slaveR\master\master\main.asm</FILE><LINE>58</LINE></wait2>
+  <wait3><FILE>D:\tec\ITSE\5to semestre\lab de micros\TWI masterT-slaveR\master\master\main.asm</FILE><LINE>76</LINE></wait3>
+ </LABELS>
+</ASSEMBLER_INFO>

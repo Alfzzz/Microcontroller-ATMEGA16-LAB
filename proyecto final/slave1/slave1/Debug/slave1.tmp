@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>D:\tec\ITSE\5to semestre\lab de micros\proyecto final\slave1\slave1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/atmel7\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>D:\atmel7\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\tec\ITSE\5to semestre\lab de micros\proyecto final\slave1\slave1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/atmel7\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\tec\ITSE\5to semestre\lab de micros\proyecto final\slave1\slave1\Debug\slave1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>slave1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>slave1.map</FILE>
+  <FILE>slave1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>D:\tec\ITSE\5to semestre\lab de micros\proyecto final\slave1\slave1\main.asm</FILE><LINE>10</LINE></main>
+  <twi><FILE>D:\tec\ITSE\5to semestre\lab de micros\proyecto final\slave1\slave1\main.asm</FILE><LINE>88</LINE></twi>
+  <stop><FILE>D:\tec\ITSE\5to semestre\lab de micros\proyecto final\slave1\slave1\main.asm</FILE><LINE>74</LINE></stop>
+  <fin><FILE>D:\tec\ITSE\5to semestre\lab de micros\proyecto final\slave1\slave1\main.asm</FILE><LINE>54</LINE></fin>
+  <pollingADC><FILE>D:\tec\ITSE\5to semestre\lab de micros\proyecto final\slave1\slave1\main.asm</FILE><LINE>56</LINE></pollingADC>
+  <errorSTOP><FILE>D:\tec\ITSE\5to semestre\lab de micros\proyecto final\slave1\slave1\main.asm</FILE><LINE>67</LINE></errorSTOP>
+  <wait1><FILE>D:\tec\ITSE\5to semestre\lab de micros\proyecto final\slave1\slave1\main.asm</FILE><LINE>92</LINE></wait1>
+  <recibir><FILE>D:\tec\ITSE\5to semestre\lab de micros\proyecto final\slave1\slave1\main.asm</FILE><LINE>118</LINE></recibir>
+  <enviar><FILE>D:\tec\ITSE\5to semestre\lab de micros\proyecto final\slave1\slave1\main.asm</FILE><LINE>124</LINE></enviar>
+  <error><FILE>D:\tec\ITSE\5to semestre\lab de micros\proyecto final\slave1\slave1\main.asm</FILE><LINE>173</LINE></error>
+  <wait2><FILE>D:\tec\ITSE\5to semestre\lab de micros\proyecto final\slave1\slave1\main.asm</FILE><LINE>133</LINE></wait2>
+  <confirmarDatoTransmision><FILE>D:\tec\ITSE\5to semestre\lab de micros\proyecto final\slave1\slave1\main.asm</FILE><LINE>150</LINE></confirmarDatoTransmision>
+  <seguirConfirmarDatoRecepcion><FILE>D:\tec\ITSE\5to semestre\lab de micros\proyecto final\slave1\slave1\main.asm</FILE><LINE>148</LINE></seguirConfirmarDatoRecepcion>
+  <leerDatoRecepcion><FILE>D:\tec\ITSE\5to semestre\lab de micros\proyecto final\slave1\slave1\main.asm</FILE><LINE>162</LINE></leerDatoRecepcion>
+ </LABELS>
+</ASSEMBLER_INFO>
