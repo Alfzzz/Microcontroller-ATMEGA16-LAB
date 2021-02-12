@@ -1,0 +1,45 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>D:\tec\ITSE\5to semestre\lab de micros\práctica 11 Serial y Teclado matricial\SerialYTeclado\SerialYTeclado\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/atmel7\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>D:\atmel7\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 11 Serial y Teclado matricial\SerialYTeclado\SerialYTeclado\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/atmel7\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 11 Serial y Teclado matricial\SerialYTeclado\SerialYTeclado\Debug\SerialYTeclado.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>SerialYTeclado.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>SerialYTeclado.map</FILE>
+  <FILE>SerialYTeclado.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 11 Serial y Teclado matricial\SerialYTeclado\SerialYTeclado\main.asm</FILE><LINE>10</LINE></main>
+  <tecla><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 11 Serial y Teclado matricial\SerialYTeclado\SerialYTeclado\main.asm</FILE><LINE>46</LINE></tecla>
+  <rx><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 11 Serial y Teclado matricial\SerialYTeclado\SerialYTeclado\main.asm</FILE><LINE>62</LINE></rx>
+  <initLCD_4bits><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 11 Serial y Teclado matricial\SerialYTeclado\SerialYTeclado\main.asm</FILE><LINE>112</LINE></initLCD_4bits>
+  <fin><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 11 Serial y Teclado matricial\SerialYTeclado\SerialYTeclado\main.asm</FILE><LINE>43</LINE></fin>
+  <polling><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 11 Serial y Teclado matricial\SerialYTeclado\SerialYTeclado\main.asm</FILE><LINE>55</LINE></polling>
+  <primeraLinea><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 11 Serial y Teclado matricial\SerialYTeclado\SerialYTeclado\main.asm</FILE><LINE>71</LINE></primeraLinea>
+  <segundaLinea><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 11 Serial y Teclado matricial\SerialYTeclado\SerialYTeclado\main.asm</FILE><LINE>78</LINE></segundaLinea>
+  <rxRETI><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 11 Serial y Teclado matricial\SerialYTeclado\SerialYTeclado\main.asm</FILE><LINE>82</LINE></rxRETI>
+  <sendLCD_4bits><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 11 Serial y Teclado matricial\SerialYTeclado\SerialYTeclado\main.asm</FILE><LINE>90</LINE></sendLCD_4bits>
+  <retardo40us><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 11 Serial y Teclado matricial\SerialYTeclado\SerialYTeclado\main.asm</FILE><LINE>158</LINE></retardo40us>
+  <retardo500us><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 11 Serial y Teclado matricial\SerialYTeclado\SerialYTeclado\main.asm</FILE><LINE>144</LINE></retardo500us>
+  <retardo10ms><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 11 Serial y Teclado matricial\SerialYTeclado\SerialYTeclado\main.asm</FILE><LINE>130</LINE></retardo10ms>
+  <ciclo2><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 11 Serial y Teclado matricial\SerialYTeclado\SerialYTeclado\main.asm</FILE><LINE>134</LINE></ciclo2>
+  <ciclo1><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 11 Serial y Teclado matricial\SerialYTeclado\SerialYTeclado\main.asm</FILE><LINE>136</LINE></ciclo1>
+  <ciclo3><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 11 Serial y Teclado matricial\SerialYTeclado\SerialYTeclado\main.asm</FILE><LINE>148</LINE></ciclo3>
+  <ciclo4><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 11 Serial y Teclado matricial\SerialYTeclado\SerialYTeclado\main.asm</FILE><LINE>150</LINE></ciclo4>
+  <ciclo5><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 11 Serial y Teclado matricial\SerialYTeclado\SerialYTeclado\main.asm</FILE><LINE>162</LINE></ciclo5>
+  <ciclo6><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 11 Serial y Teclado matricial\SerialYTeclado\SerialYTeclado\main.asm</FILE><LINE>164</LINE></ciclo6>
+ </LABELS>
+</ASSEMBLER_INFO>
