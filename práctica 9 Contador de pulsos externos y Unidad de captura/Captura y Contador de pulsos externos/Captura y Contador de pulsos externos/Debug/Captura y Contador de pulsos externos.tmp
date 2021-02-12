@@ -1,0 +1,50 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>D:\tec\ITSE\5to semestre\lab de micros\práctica9 BIN2BCD\Captura y Contador de pulsos externos\Captura y Contador de pulsos externos\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/atmel7\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>D:\atmel7\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica9 BIN2BCD\Captura y Contador de pulsos externos\Captura y Contador de pulsos externos\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/atmel7\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica9 BIN2BCD\Captura y Contador de pulsos externos\Captura y Contador de pulsos externos\Debug\Captura y Contador de pulsos externos.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Captura y Contador de pulsos externos.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Captura y Contador de pulsos externos.map</FILE>
+  <FILE>Captura y Contador de pulsos externos.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <initLCD_4bits><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica9 BIN2BCD\Captura y Contador de pulsos externos\Captura y Contador de pulsos externos\main.asm</FILE><LINE>184</LINE></initLCD_4bits>
+  <LecturaSwitch1><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica9 BIN2BCD\Captura y Contador de pulsos externos\Captura y Contador de pulsos externos\main.asm</FILE><LINE>17</LINE></LecturaSwitch1>
+  <LecturaSwitch2><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica9 BIN2BCD\Captura y Contador de pulsos externos\Captura y Contador de pulsos externos\main.asm</FILE><LINE>58</LINE></LecturaSwitch2>
+  <pollingRetardo2ms><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica9 BIN2BCD\Captura y Contador de pulsos externos\Captura y Contador de pulsos externos\main.asm</FILE><LINE>38</LINE></pollingRetardo2ms>
+  <pulsoNoDetectado><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica9 BIN2BCD\Captura y Contador de pulsos externos\Captura y Contador de pulsos externos\main.asm</FILE><LINE>45</LINE></pulsoNoDetectado>
+  <Incremento><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica9 BIN2BCD\Captura y Contador de pulsos externos\Captura y Contador de pulsos externos\main.asm</FILE><LINE>117</LINE></Incremento>
+  <enviarBCD><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica9 BIN2BCD\Captura y Contador de pulsos externos\Captura y Contador de pulsos externos\main.asm</FILE><LINE>155</LINE></enviarBCD>
+  <PollingCaptura1><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica9 BIN2BCD\Captura y Contador de pulsos externos\Captura y Contador de pulsos externos\main.asm</FILE><LINE>66</LINE></PollingCaptura1>
+  <PollingCaptura2><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica9 BIN2BCD\Captura y Contador de pulsos externos\Captura y Contador de pulsos externos\main.asm</FILE><LINE>79</LINE></PollingCaptura2>
+  <BIN_BCD><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica9 BIN2BCD\Captura y Contador de pulsos externos\Captura y Contador de pulsos externos\main.asm</FILE><LINE>269</LINE></BIN_BCD>
+  <sendLCD_4bits><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica9 BIN2BCD\Captura y Contador de pulsos externos\Captura y Contador de pulsos externos\main.asm</FILE><LINE>199</LINE></sendLCD_4bits>
+  <unidades><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica9 BIN2BCD\Captura y Contador de pulsos externos\Captura y Contador de pulsos externos\main.asm</FILE><LINE>118</LINE></unidades>
+  <Decenas><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica9 BIN2BCD\Captura y Contador de pulsos externos\Captura y Contador de pulsos externos\main.asm</FILE><LINE>127</LINE></Decenas>
+  <Centenas><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica9 BIN2BCD\Captura y Contador de pulsos externos\Captura y Contador de pulsos externos\main.asm</FILE><LINE>134</LINE></Centenas>
+  <Millares><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica9 BIN2BCD\Captura y Contador de pulsos externos\Captura y Contador de pulsos externos\main.asm</FILE><LINE>143</LINE></Millares>
+  <ResetearTodo><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica9 BIN2BCD\Captura y Contador de pulsos externos\Captura y Contador de pulsos externos\main.asm</FILE><LINE>150</LINE></ResetearTodo>
+  <retardo10ms><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica9 BIN2BCD\Captura y Contador de pulsos externos\Captura y Contador de pulsos externos\main.asm</FILE><LINE>220</LINE></retardo10ms>
+  <retardo40us><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica9 BIN2BCD\Captura y Contador de pulsos externos\Captura y Contador de pulsos externos\main.asm</FILE><LINE>243</LINE></retardo40us>
+  <pollingRetardo10ms><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica9 BIN2BCD\Captura y Contador de pulsos externos\Captura y Contador de pulsos externos\main.asm</FILE><LINE>232</LINE></pollingRetardo10ms>
+  <pollingRetardo40us><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica9 BIN2BCD\Captura y Contador de pulsos externos\Captura y Contador de pulsos externos\main.asm</FILE><LINE>255</LINE></pollingRetardo40us>
+  <otro><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica9 BIN2BCD\Captura y Contador de pulsos externos\Captura y Contador de pulsos externos\main.asm</FILE><LINE>276</LINE></otro>
+  <INC_BCD><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica9 BIN2BCD\Captura y Contador de pulsos externos\Captura y Contador de pulsos externos\main.asm</FILE><LINE>284</LINE></INC_BCD>
+  <ciclo><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica9 BIN2BCD\Captura y Contador de pulsos externos\Captura y Contador de pulsos externos\main.asm</FILE><LINE>288</LINE></ciclo>
+  <DEC_BIN><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica9 BIN2BCD\Captura y Contador de pulsos externos\Captura y Contador de pulsos externos\main.asm</FILE><LINE>299</LINE></DEC_BIN>
+ </LABELS>
+</ASSEMBLER_INFO>

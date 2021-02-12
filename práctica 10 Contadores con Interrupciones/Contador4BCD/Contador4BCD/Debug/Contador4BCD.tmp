@@ -1,0 +1,44 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>D:\tec\ITSE\5to semestre\lab de micros\práctica 10 Contadores con Interrupciones\Contador4BCD\Contador4BCD\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/atmel7\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>D:\atmel7\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 10 Contadores con Interrupciones\Contador4BCD\Contador4BCD\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/atmel7\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 10 Contadores con Interrupciones\Contador4BCD\Contador4BCD\Debug\Contador4BCD.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Contador4BCD.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Contador4BCD.map</FILE>
+  <FILE>Contador4BCD.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 10 Contadores con Interrupciones\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>14</LINE></main>
+  <bttnIncremento><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 10 Contadores con Interrupciones\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>77</LINE></bttnIncremento>
+  <bttnDecremento><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 10 Contadores con Interrupciones\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>127</LINE></bttnDecremento>
+  <switchIncremento10ms><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 10 Contadores con Interrupciones\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>194</LINE></switchIncremento10ms>
+  <refresh><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 10 Contadores con Interrupciones\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>173</LINE></refresh>
+  <polling><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 10 Contadores con Interrupciones\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>57</LINE></polling>
+  <ActivarTimer2><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 10 Contadores con Interrupciones\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>63</LINE></ActivarTimer2>
+  <Mostrar0><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 10 Contadores con Interrupciones\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>67</LINE></Mostrar0>
+  <bttnIncrementoRETI><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 10 Contadores con Interrupciones\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>92</LINE></bttnIncrementoRETI>
+  <retardo10ms><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 10 Contadores con Interrupciones\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>202</LINE></retardo10ms>
+  <bttnIncrementoPolling><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 10 Contadores con Interrupciones\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>87</LINE></bttnIncrementoPolling>
+  <incremento><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 10 Contadores con Interrupciones\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>97</LINE></incremento>
+  <incrementoRET><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 10 Contadores con Interrupciones\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>124</LINE></incrementoRET>
+  <bttnDecrementoRETI><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 10 Contadores con Interrupciones\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>168</LINE></bttnDecrementoRETI>
+  <bttnDecrementoPolling><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 10 Contadores con Interrupciones\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>137</LINE></bttnDecrementoPolling>
+  <refreshRETI><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 10 Contadores con Interrupciones\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>189</LINE></refreshRETI>
+  <ciclo2><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 10 Contadores con Interrupciones\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>204</LINE></ciclo2>
+  <ciclo1><FILE>D:\tec\ITSE\5to semestre\lab de micros\práctica 10 Contadores con Interrupciones\Contador4BCD\Contador4BCD\main.asm</FILE><LINE>206</LINE></ciclo1>
+ </LABELS>
+</ASSEMBLER_INFO>

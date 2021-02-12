@@ -1,0 +1,16 @@
+¿Cuál es el rango teórico de frecuencias que podrá detectar el micro?(de 500a X Hz)Explicar por qué y cómo se calculó.
+2ms/125ns=16000
+
+
+
+
+c.
+
+Usar Timer 0 y Timer 1 ¿En qué modosse deben configurar?
+Timer 0 modo contador de pulsos 101 o 111
+Timer 1 modo ctc
+
+¿Cuál es la frecuencia óptima a la que se deberá configurar la señal cuadrada? Si el número máximo de pulsos que puede contarel timerse restringe a9999.
+1/9999=1m
+
+
